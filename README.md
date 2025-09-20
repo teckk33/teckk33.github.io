@@ -5,7 +5,7 @@
 
 ## 📂 Мои проекты
 1. [WB-парсер → Excel](https://github.com/teckk33/projects/tree/main/wbParser)
-2. [Telegram-бот «Курс валют»](https://github.com/YOU/rate-bot)  
+2. [Telegram-бот «Курс валют»](https://github.com/teckk33/projects/tree/main/tgCurrBot)
 3. [CSV → график отчёта](https://github.com/YOU/csv-report)
 
 ## 📬 Контакты
